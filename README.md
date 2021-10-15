@@ -1,4 +1,4 @@
-# mergeSort-in-C
+# insertionSort-in-C
 
 #include <stdio.h>
 
